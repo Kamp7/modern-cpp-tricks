@@ -234,4 +234,4 @@ mset.extract(3) // {2, 3} simple and clean
 
 * `multiset::extract` helps remove single instance naturally.
 * Note this also works with normal `set` and `map`.
-* It returns a node handle
+* It returns a node handle 
